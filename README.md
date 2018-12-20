@@ -2,6 +2,8 @@
 
 Bot that sends zabbix triggers to telegram.
 
+<a href="/images/ack.png"><img src="/images/ack.png"></a>
+
 ## Install
 
 `go get -tags 'purego' github.com/vadv/zbx4tg`
