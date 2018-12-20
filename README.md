@@ -49,13 +49,14 @@ Change zabbix settings in `bot.lua` like this:
 * Add bot to your chat
 
 * Set minimal priority
-![status](/images/minimal_priority.png)
 
 * Enable messages in this chat
-![status](/images/chat_status.png)
 
 * Get messages
-![status](/images/ack.png)
 
-* Ack
+* Send ack
+
 ![status](/images/ack_sended.png)
+![status](/images/minimal_priority.png)
+![status](/images/chat_status.png)
+![status](/images/ack.png)
