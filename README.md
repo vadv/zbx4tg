@@ -56,7 +56,7 @@ Change zabbix settings in `bot.lua` like this:
 
 * Send ack
 
-![status](/images/ack_sended.png)
-![status](/images/minimal_priority.png)
-![status](/images/chat_status.png)
-![status](/images/ack.png)
+![priority](/images/minimal_priority.png | width=100)
+![status](/images/chat_status.png | width=100)
+![ack](/images/ack.png | width=100)
+![ack sended](/images/ack_sended.png | width=100)
